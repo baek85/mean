@@ -1,0 +1,2 @@
+lr 1e-4  train acc 95.82  test acc 86.52
+lr 1e-3  train acc        test acc
